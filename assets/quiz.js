@@ -15,13 +15,13 @@ submitButton.addEventListener('click', showResults);
 // create questions for quiz
 const questions = [
     {
-        question: "",
+        question: "Which of these is used to set a variable that doesn't change",
         answers: {
-            a: "",
-            b: "",
-            c: ""
+            a: "let",
+            b: "const",
+            c: "var"
         },
-        correctAnswer: ""
+        correctAnswer: "b"
     },
     {
         question: "",
